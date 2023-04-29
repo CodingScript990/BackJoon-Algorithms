@@ -2,6 +2,7 @@ package com.backjoon.backjoon.day2;
 
 import java.util.Scanner;
 
+// April.29 Saturday
 public class BackJoon11382 {
 		public static void main(String[] args) {
 
