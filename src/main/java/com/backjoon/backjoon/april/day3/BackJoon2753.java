@@ -1,4 +1,4 @@
-package com.backjoon.backjoon.day3;
+package com.backjoon.backjoon.april.day3;
 
 import java.util.Scanner;
 // April.30 Sunday

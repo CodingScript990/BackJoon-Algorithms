@@ -1,4 +1,4 @@
-package com.backjoon.backjoon.day1;
+package com.backjoon.backjoon.april.day1;
 
 // April.27 Thursday
 public class BackJoon2557 {

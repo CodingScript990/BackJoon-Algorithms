@@ -1,4 +1,4 @@
-package com.backjoon.backjoon.day2;
+package com.backjoon.backjoon.april.day2;
 
 import java.util.Scanner;
 
